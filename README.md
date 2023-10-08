@@ -1,4 +1,4 @@
-# SteamDeckButtons
+# Steam Deck Button Prompts for Kingdom Hearts II Final Mix [PC]
 Replaces the generic button prompt option with Steam Deck buttons for Kingdom Hearts II Final Mix on PC. 
 
 Based on [Zurphing's Switch Buttons](https://github.com/Zurphing/SwitchButtons) release.
